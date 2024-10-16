@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TrongKhanhqlv
+- 👋 Hi, I’m Trong Khanh
 
 ### 👨‍💻 About Me
 I'm a first-year university student with a strong foundation in **C++**, **data structures**, and **algorithms**. I am passionate about technology and aspire to become an **AI developer**. My current focus is learning more about **Artificial Intelligence (AI)** and **Machine Learning (ML)** to build intelligent systems that can solve real-world problems.
