@@ -16,7 +16,7 @@ I'm a first-year university student with a strong foundation in **C++**, **data 
 - **Tools**: Git, Visual Studio Code, Jupyter Notebooks
 
 ### 🔗 Connect with Me
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/trọng-khánh-lê-7b5408333
 - Email: le.trongkhanhqlv@gmail.com
 
 ### 📈 GitHub Stats
